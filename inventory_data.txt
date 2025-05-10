@@ -1,0 +1,5 @@
+1,All-Purpose Flour,Ingredient,25.50,kg,5.00,Local Flour Mill
+2,Sugar,Ingredient,15.75,kg,3.00,Sweet Suppliers
+3,Vanilla Extract,Ingredient,200.00,ml,50.00,Spice Co.
+4,Small Cake Boxes,Packaging,120,units,30,Packaging Solutions Inc.
+5,Stand Mixer,Equipment,3,units,1,Kitchen Warehouse
